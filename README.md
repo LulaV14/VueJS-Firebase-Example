@@ -1,5 +1,6 @@
 # VueJS with Firebase 
 This is an example project only to test VueJS using Firebase.
+
 The project is a simple list of books, where you can add or delete them.
 
 
